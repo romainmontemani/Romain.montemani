@@ -9,8 +9,11 @@ Je suis actuellement **en reconversion vers la Data Analyse appliquée au sport*
 ## 🧠 Qui suis-je ?
 
 🎓 Diplômé d'un **Bachelor Sport Business** à l'ESG Sport d'Aix-en-Provence 
+
 📍 Basé en France à Toulon
+
 🎯 Je combine :
+
 - **Compréhension du monde sportif**
 - **Analyse de données**
 - **Communication des résultats**

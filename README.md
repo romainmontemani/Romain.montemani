@@ -32,13 +32,13 @@ Gestions d'invitations
 
 - **Toulon Métropole Var Handball**
    
-  Analyse de marché, construction d’indicateurs, suivi de campagnes et reporting.
-  Logistique et installation pour les matchs de D1
-  Stratégie billetterie
+Analyse de marché, construction d’indicateurs, suivi de campagnes et reporting.
+Logistique et installation pour les matchs de D1
+Stratégie billetterie
 
 - **Provence Rugby**
   
-  Expérience opérationnelle pour l'organisation d'un match de Pro D2
+Expérience opérationnelle pour l'organisation d'un match de Pro D2
 
 ---
 

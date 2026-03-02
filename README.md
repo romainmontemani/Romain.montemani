@@ -93,5 +93,5 @@ Expérience opérationnelle pour l'organisation d'un match de Pro D2
 📩 [Email] (romain.montemani@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/romain-montemani/) 
 
-📍 **France,Toulon**
-
+Merci pour votre visite.
+Ce portfolio reflète mon parcours, mes projets en cours, ainsi que mon envie de devenir dans le futur data analyst dans le monde du sport.

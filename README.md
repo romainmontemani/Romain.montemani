@@ -24,17 +24,20 @@ Mon objectif :
 ## 💼 Expériences clés dans le monde du sport 
 
 - **Comité Départemental de Tennis du Var** / **Masters 1000 Monte-Carlo**  /  **Open 13**
+
 Développement sportif, partenariats, événements
 Analyse de données : licenciés, clubs, participation, engagement
 Planification d'événemments
 Gestions d'invitations   
 
-- **Toulon Métropole Var Handball**  
+- **Toulon Métropole Var Handball**
+   
   Analyse de marché, construction d’indicateurs, suivi de campagnes et reporting.
   Logistique et installation pour les matchs de D1
   Stratégie billetterie
 
-- **Provence Rugby**  
+- **Provence Rugby**
+  
   Expérience opérationnelle pour l'organisation d'un match de Pro D2
 
 ---

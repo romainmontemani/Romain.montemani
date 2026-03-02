@@ -24,8 +24,6 @@ Mon objectif :
 ## 💼 Expériences clés dans le monde du sport 
 
 - **Comité Départemental de Tennis du Var**
-- **Masters 1000 Monte-Carlo**
-- **Open 13**
 Développement sportif, partenariats, événements
 Analyse de données : licenciés, clubs, participation, engagement
 Planification d'événemments

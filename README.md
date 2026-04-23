@@ -13,6 +13,7 @@ Je suis actuellement en transition vers la Data Analyse, après plusieurs expér
 🎓 Diplômé d’un Bachelor Sport Business (ESG Sport)  
 📍 Basé à Toulon (France)  
 📚 Rentre prochainement en Master Data Marketing & CRM
+
 🎯 Objectif : devenir Data Analyst
 
 Je combine :

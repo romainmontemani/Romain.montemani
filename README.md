@@ -31,8 +31,6 @@ Au cours de mes expériences, j’ai travaillé sur :
 - 📁 Structuration et nettoyage de données  
 - 📌 Identification de leviers d’optimisation business  
 
-👉 Exemple : analyse des performances en point de vente chez JD Sports et identification d’axes d’amélioration du parcours client :contentReference[oaicite:0]{index=0}  
-
 ---
 
 ## 🛠️ Compétences techniques

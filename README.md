@@ -2,7 +2,7 @@
 ## 📊 Data Analyst orienté sport | Passionné par la donnée, la performance et la stratégie
 
 Bienvenue sur mon portfolio 👇  
-Je suis actuellement **en reconversion vers la Data Analyse appliquée au sport**, après plusieurs expériences en **sport business, marketing et développement commercial**.
+Je suis actuellement **en reconversion vers la Data Analyse, après plusieurs expériences en **sport business, marketing et développement commercial**.
 
 ---
 

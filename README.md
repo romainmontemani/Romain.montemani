@@ -1,94 +1,71 @@
-# 👋 Bonjour ! Je suis **Romain Montemani**
-## 📊 Data Analyst orienté sport | Passionné par la donnée, la performance et la stratégie
+👋 Bonjour ! Je suis Romain Montemani
+
+📊 **Data Analyst orienté sport | Performance, KPI & insights clients**
 
 Bienvenue sur mon portfolio 👇  
-Je suis actuellement **en reconversion vers la Data Analyse, après plusieurs expériences en **sport business, marketing et développement commercial**.
+
+Je suis actuellement en transition vers la Data Analyse, après plusieurs expériences en sport business, marketing et développement commercial.
 
 ---
 
 ## 🧠 Qui suis-je ?
 
-🎓 Diplômé d'un **Bachelor Sport Business** à l'ESG Sport d'Aix-en-Provence 
+🎓 Diplômé d’un Bachelor Sport Business (ESG Sport)  
+📍 Basé à Toulon (France)  
+🎯 Objectif : devenir Data Analyst spécialisé dans le sport et la performance  
 
-📍 Basé en France à Toulon
-
-🎯 Je combine :
-
-- **Compréhension du monde sportif**
-- **Analyse de données**
-- **Communication des résultats**
-pour aider les structures sportives à **prendre de meilleures décisions basées sur la data**.
-
-Mon objectif :  
-👉 Devenir **Data Analyst dans l’industrie du sport** — clubs, fédérations, agences ou marques.
+Je combine :
+- Une compréhension terrain du sport business (retail, événementiel, marketing)
+- L’analyse de données pour piloter la performance
+- La capacité à transformer des données en décisions concrètes  
 
 ---
 
-## 💼 Expériences clés dans le monde du sport 
+## 📈 Ce que je fais concrètement
 
-- **Comité Départemental de Tennis du Var**
+Au cours de mes expériences, j’ai travaillé sur :
 
-Développement sportif, partenariats, événements
-Analyse de données : licenciés, clubs, participation, engagement
-Planification d'événemments
-Gestions d'invitations
+- 📊 Analyse de KPI commerciaux (CA, taux de conversion, panier moyen)  
+- 📉 Analyse de performance marketing (engagement, portée, fréquentation)  
+- 🧩 Segmentation de publics et analyse comportementale  
+- 📁 Structuration et nettoyage de données  
+- 📌 Identification de leviers d’optimisation business  
 
-- **Toulon Métropole Var Handball**
-   
-Analyse de marché, construction d’indicateurs, suivi de campagnes et reporting.
-Logistique et installation pour les matchs de D1
-Stratégie billetterie
-
-- **Provence Rugby**
-  
-Expérience opérationnelle pour l'organisation d'un match de Pro D2
+👉 Exemple : analyse des performances en point de vente chez JD Sports et identification d’axes d’amélioration du parcours client :contentReference[oaicite:0]{index=0}  
 
 ---
 
-## 📊 Projets Data Sport en cours
+## 🛠️ Compétences techniques
 
-### 🏃‍♂️ **Analyse de performance sportive**
-🔍 Analyse détaillée des performances individuelles et collectives  
+**Data & Analyse :**
+- Excel (TCD, analyse KPI)
+- Python (bases – manipulation de données)
+- SQL (en cours)
+- Power BI (en cours)
 
----
-
-### 📣 **Analyse de l’engagement des fans**
-🔍 Compréhension des comportements fans  
-
-
----
-
-### 📈 **Data & business sportif**
-🔍 Décisions commerciales basées sur la donnée  
+**Business & Data :**
+- Pilotage de performance
+- Analyse KPI
+- Data storytelling
+- Amélioration continue
 
 ---
 
-### 📚 **Études de cas Data – Stratégie & sport**
+## 🚀 Projets
 
+- Dashboard Power BI (analyse des performances de ventes)
+- Projet Python (nettoyage + analyse dataset)
+- Analyse marketing (engagement réseaux, fans, etc.)
 
 ---
 
-## 🛠️ Compétences
+## 🎯 Objectif professionnel
 
-### 📊 Data
-- Introduction à **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- Nettoyage & exploration de données  
-- Construction & interprétation de KPI  
-- Introduction à **Power BI / dashboards**
-- Introduction aux notions **SQL**
+Je recherche une **alternance en Data Analyse à partir de septembre 2026** pour :
 
-### 🧠 Sport & Business
-- Marketing & sponsoring  
-- Analyse des audiences  
-- Stratégies commerciales  
-- Notions CRM
-
-### 🛠️ Outils
-- Git & GitHub  
-- Excel & ensemble du Pack Office
-- Canva
-- IMovie
-  
+- Monter en compétences sur SQL, Python et Power BI  
+- Travailler sur des problématiques concrètes de performance  
+- Contribuer à des prises de décision basées sur la donnée  
 ---
 
 ## 📫 Me contacter

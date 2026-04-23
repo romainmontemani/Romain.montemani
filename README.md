@@ -1,6 +1,6 @@
 👋 Bonjour ! Je suis Romain Montemani
 
-📊 **Data Analyst orienté sport | Performance, KPI & insights clients**
+📊 **Data Analyst | Performance, KPI & insights clients**
 
 Bienvenue sur mon portfolio 👇  
 
@@ -12,7 +12,8 @@ Je suis actuellement en transition vers la Data Analyse, après plusieurs expér
 
 🎓 Diplômé d’un Bachelor Sport Business (ESG Sport)  
 📍 Basé à Toulon (France)  
-🎯 Objectif : devenir Data Analyst spécialisé dans le sport et la performance  
+📚 Rentre prochainement en Master Data Marketing & CRM 
+🎯 Objectif : devenir Data Analyst
 
 Je combine :
 - Une compréhension terrain du sport business (retail, événementiel, marketing)
@@ -63,7 +64,8 @@ Je recherche une **alternance en Data Analyse à partir de septembre 2026** pour
 
 - Monter en compétences sur SQL, Python et Power BI  
 - Travailler sur des problématiques concrètes de performance  
-- Contribuer à des prises de décision basées sur la donnée  
+- Contribuer à des prises de décision basées sur la donnée
+  
 ---
 
 ## 📫 Me contacter
@@ -72,4 +74,4 @@ Je recherche une **alternance en Data Analyse à partir de septembre 2026** pour
 🔗 [LinkedIn](https://www.linkedin.com/in/romain-montemani/) 
 
 Merci pour votre visite.
-Ce portfolio reflète mon parcours, mes projets en cours, ainsi que mon envie de devenir dans le futur data analyst dans le monde du sport.
+Ce portfolio reflète mon parcours, mes projets en cours, ainsi que mon envie de devenir dans le futur data analyst.
